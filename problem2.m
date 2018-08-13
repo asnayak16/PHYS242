@@ -1,6 +1,6 @@
 
 %% Monte Carlo simulation of a classical electron in a 2D oscillator
-%%% Written by Ashwin Nayak, A53212870, asnayak[at]ucsd.edu
+%%% Written by Ashwin Nayak, asnayak[at]ucsd.edu
 %% Initial Conditions
 % Problem Parameters
 dim = 100; beta = 1;
