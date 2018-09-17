@@ -1,5 +1,5 @@
 %% Feynman Path Integral for the Harmonic Oscillator
-%  Written by : Ashwin Nayak, asnayak@ucsd.edu
+%  Written by : Ashwin Nayak
 % -------------------------------------------------------------------------
 %% Parameters
 % Grid Parameters
